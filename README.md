@@ -1,2 +1,2 @@
-# iNeuron-FullStack-Developer
-A Code Repo for iNeuron FullStack JavaScript Web Developer
+# FullStack-Developer
+A Code Repo for FullStack JavaScript Web Developer
