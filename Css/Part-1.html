@@ -1,0 +1,103 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Hello Abhishek Css Part-1</title>
+
+    <style>
+        /* universal selector */
+        *{
+            margin: 0;
+            padding: 0;
+            box-sizing: border-box;
+            background-color: antiquewhite;
+        }
+
+        /* individual selector */
+        h1{
+            text-align: center;
+            color: rgb(0, 0, 0);
+            background-color: rgb(255, 255, 255);
+            border: 2px solid rgb(0, 0, 0);
+            border-radius: 10px;
+            padding: 10px;
+            margin: 10px auto;
+            width: 50%;
+        }
+
+        /* group selector */
+        h1, p{
+            font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+        }
+
+        /* class and id selector */
+        .a{
+            color: rgb(255, 0, 0);
+            font-size: 20px;
+        }
+        #b{
+            color: rgb(255, 0, 153);
+            font-size: 30px;
+        }
+
+        /* and selector (chained) */
+        li.d{
+            color: rgb(255, 0, 0);
+            font-size: 20px;
+        }
+
+        /* combined selector */
+        li.c:hover{
+            background-color: rgb(255, 255, 255);
+            color: rgb(0, 0, 0);
+        }
+
+        /* inside an element */
+        ul li{
+            list-style: none;
+            padding: 10px;
+            margin: 10px;
+            border: 2px solid rgb(0, 0, 0);
+            border-radius: 10px;
+            width: 50%;
+            text-align: center;
+        }
+
+        /* attribute selector */
+        li[class="c"]{
+            color: rgb(0, 0, 255);
+            font-size: 20px;
+        }
+
+        /* direct child */
+        ul > li{
+            color: rgb(0, 0, 0);
+            font-size: 20px;
+        }
+
+        /* sibling ~ or + selector */
+        .d ~ li{
+            color: rgb(222, 33, 33);
+            font-size: 20px;
+        }
+
+        .c + li{
+            color: rgb(0, 0, 0);
+            font-size: 20px;
+        }
+
+    </style>
+
+</head>
+<body>
+    <h1>Hello Abhishek</h1>
+    <p>How are you Dude!!🙃</p>
+    <ul>
+        <li class="a">A</li>
+        <li id="b">B</li>
+        <li class="c">C</li>
+        <li class="d">D</li>
+    </ul>
+</body>
+</html>

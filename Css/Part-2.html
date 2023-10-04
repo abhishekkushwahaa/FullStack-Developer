@@ -1,0 +1,67 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Hello Abhishek Css Part-2</title>
+
+    <style>
+        body{
+            background-color: antiquewhite;
+        }
+
+        /* before */
+        h1::before{
+            content: "Hello ";
+            color: rgb(255, 0, 0);
+        }
+
+        /* after :: part of label */
+        h1::after{
+            content: " How Are You?🤔";
+            color: rgb(255, 0, 0);
+        }
+
+        /* hover */
+        h1:hover{
+            color: rgb(255, 0, 0);
+        }
+
+        /* focus */
+        input:focus{
+            background-color: rgb(0, 221, 255);
+        }
+
+        /* first child and last child */
+        ul li:first-child{
+            color: rgb(255, 0, 0);
+        }
+        ul li:last-child{
+            color: rgb(255, 0, 0);
+        }
+        ul li:nth-child(2){
+            color: rgb(255, 0, 0);
+        }
+
+        /* custom attributes */
+        h1[data-Abhi="Abhi"]{
+            color: rgb(17, 255, 0);
+        }
+
+    </style>
+
+</head>
+<body>
+    <h1>Abhishek Kushwaha</h1>
+    <p class="a">How Are You?🤔</p>
+    <div>
+        <form action="">
+            <label for="name">Enter Your Name</label>
+            <input type="text" name="name" id="b" placeholder="Enter Your Name">
+            <label for="email"></label>
+            <input type="text" name="email" id="b" placeholder="Enter Your EMail">
+            <input type="submit" value="Submit">
+        </form>
+    </div>
+</body>
+</html>
