@@ -2,11 +2,11 @@
 Welcome to my Full Stack Developer Repo! This document provides an overview of my skills, coding practices, and some general information about how I work.
 
 # Table of Contents
-    [Introduction](#introduction)
-    [Skills](#skills)
-    [Preferred Technologies](#preferred-technologies)
-    [Collaboration](#collaboration)
-    [Connect with us](#connect-with-us-gift_heart)
+[Introduction](#introduction) \
+[Skills](#skills) \
+[Preferred Technologies](#preferred-technologies) \
+[Collaboration](#collaboration) \
+[Connect with us](#connect-with-us-gift_heart)
 
 ## Introduction
 As a Full Stack Developer, I am passionate about building web applications that are both functional and user-friendly. My goal is to create efficient and scalable software solutions that meet the needs of both clients and end-users.
