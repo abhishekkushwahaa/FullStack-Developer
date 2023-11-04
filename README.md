@@ -15,23 +15,23 @@ As a Full Stack Developer, I am passionate about building web applications that 
 I have experience in the following areas:
 
 ### Front-End 
-- HTML, CSS, JavaScript \ 
-- Front-end frameworks like React \
-- Responsive web design \
-- UI/UX design principles \
-- Cross-browser compatibility \
+- HTML, CSS, JavaScript 
+- Front-end frameworks like React 
+- Responsive web design 
+- UI/UX design principles 
+- Cross-browser compatibility 
 
 ### Back-End 
-- Server-side languages like JavaScript(Node.js) \
-- RESTful and GraphQL APIs \
-- Databases (MongoDB) \
-- Serverless architecture like AWS \
-- Authentication and authorization \
+- Server-side languages like JavaScript(Node.js)
+- RESTful and GraphQL APIs 
+- Databases (MongoDB) 
+- Serverless architecture like AWS 
+- Authentication and authorization 
   
 ### DevOps 
-- Version control (Git) \
-- Containerization (Docker) \
-- Cloud platforms (AWS, Google Cloud) \
+- Version control (Git) 
+- Containerization (Docker) 
+- Cloud platforms (AWS, Google Cloud) 
 
 ## Preferred Technologies
 While I am comfortable working with a variety of technologies, I have a strong preference for the following:
