@@ -2,44 +2,46 @@
 
 Welcome to my Full Stack Developer Repo! This document provides an overview of my skills, coding practices, and some general information about how I work.
 
-## Table of Contents
+# Table of Contents
 [Introduction](#introduction)
+
 [Skills](#skills)
+
 [Preferred Technologies](#preferred-technologies)
+
 [Collaboration](#collaboration)
+
 [Connect with us](#connect-with-us-gift_heart)
 
-### Introduction
+## Introduction
 As a Full Stack Developer, I am passionate about building web applications that are both functional and user-friendly. My goal is to create efficient and scalable software solutions that meet the needs of both clients and end-users.
 
-### Skills
+## Skills
 I have experience in the following areas:
+- Front-end development (HTML, CSS, JavaScript)
+- Back-end development (Node.js)
+- Database management (SQL, NoSQL)
+- API development and integration
+- Version control with Git
+- Web application frameworks like React
+- Server deployment and cloud services (AWS, Azure, Netlify)
+- Responsive design and user experience (UX) principles
 
-Front-end development (HTML, CSS, JavaScript)
-Back-end development (Node.js)
-Database management (SQL, NoSQL)
-API development and integration
-Version control with Git
-Web application frameworks like React
-Server deployment and cloud services (AWS, Azure, Netlify)
-Responsive design and user experience (UX) principles
-
-### Preferred Technologies
+## Preferred Technologies
 While I am comfortable working with a variety of technologies, I have a strong preference for the following:
-
-Front-end: React.js
-Back-end: Node.js
-Database: MongoDB
-Version Control: Git
-Cloud Services: AWS
-DevOps: Docker
+- Front-end: React.js
+- Back-end: Node.js
+- Database: MongoDB
+- Version Control: Git
+- Cloud Services: AWS
+- DevOps: Docker
 
 These are my preferred technologies, but I'm always open to using the best tools for the job, depending on the project's requirements.
 
-### Collaboration
+## Collaboration
 I am a strong believer in teamwork and collaboration. I enjoy working with designers, product managers, and other developers to build great products. Open and effective communication is essential, and I'm always open to feedback and new ideas.
 
-### Connect with us :gift_heart:
+## Connect with us :gift_heart:
 Stay updated with the latest coding challenges, tips, and more by following us on our social media channels. Join our community to engage with fellow developers and learn together.
 
 Thank you for taking the time to review my Full Stack Developer Readme, and I look forward to potential collaborations and projects in the future!
