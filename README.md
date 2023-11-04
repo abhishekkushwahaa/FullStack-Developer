@@ -12,15 +12,26 @@ Welcome to my Full Stack Developer Repo! This document provides an overview of m
 As a Full Stack Developer, I am passionate about building web applications that are both functional and user-friendly. My goal is to create efficient and scalable software solutions that meet the needs of both clients and end-users.
 
 ## Skills
-I have experience in the following areas:
-- Front-end development (HTML, CSS, JavaScript)
-- Back-end development (Node.js)
-- Database management (SQL, NoSQL)
-- API development and integration
-- Version control with Git
-- Web application frameworks like React
-- Server deployment and cloud services (AWS, Azure, Netlify)
-- Responsive design and user experience (UX) principles
+I have experience in the following areas: \
+
+### Front-End \
+    - HTML, CSS, JavaScript \ 
+    - Front-end frameworks like React \
+    - Responsive web design \
+    - UI/UX design principles \
+    - Cross-browser compatibility \
+
+### Back-End \
+    - Server-side languages like JavaScript(Node.js) \
+    - RESTful and GraphQL APIs \
+    - Databases (MongoDB) \
+    - Serverless architecture like AWS \
+    - Authentication and authorization \
+  
+### DevOps \
+    - Version control (Git) \
+    - Containerization (Docker) \
+    - Cloud platforms (AWS, Google Cloud) \
 
 ## Preferred Technologies
 While I am comfortable working with a variety of technologies, I have a strong preference for the following:
