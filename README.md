@@ -15,7 +15,7 @@ As a Full Stack Developer, I am passionate about building web applications that 
 I have experience in the following areas:
 
 ### Front-End 
-- HTML, CSS, JavaScript 
+- HTML, CSS, JavaScript, TypeScript
 - Front-end frameworks like React 
 - Responsive web design 
 - UI/UX design principles 
