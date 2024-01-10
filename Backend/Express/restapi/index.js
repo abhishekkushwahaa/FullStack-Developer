@@ -39,6 +39,10 @@ app.get('/api/users', (req, res) => {
 app.get('/api/users/:id', (req, res) => {
     const id = Number(req.params.id);
     const user = users.find(user => user.id === id);
+    // Status Code 404: Not Found
+    if(!user) {
+      res.status(404).json({status: 'User not found'});
+    }
     res.json(user);
 });
 
@@ -47,7 +51,8 @@ app.post('/api/users', (req, res) => {
   const body = req.body;
   users.push({...body, id: users.length + 1});
   fs.writeFile('./MOCK_DATA.json', JSON.stringify(users), (err, data) => {
-    res.send({status: 'success', id: users.length});
+    // Status Code 201: Created
+    res.status(201).send({status: 'success', id: users.length});
   });
 });
 
